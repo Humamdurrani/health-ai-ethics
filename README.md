@@ -47,17 +47,17 @@ health-ai-ethics/
 
 ---
 
-## 📚 Key Themes
+## Key Themes
 
 ### Algorithmic Bias in Clinical AI
 AI systems trained on non-representative data systematically 
 underperform for Black, Indigenous, women, elderly, disabled, 
-and low-income patients. This is not a bug — it reflects the 
+and low-income patients. This is not a bug it reflects the 
 inequities of the medical data ecosystem itself.
 
 ### Social Determinants & Data Justice
 Housing, income, race, and language shape health outcomes 
-profoundly — yet most clinical AI models treat these as noise 
+profoundly yet most clinical AI models treat these as noise 
 rather than signal. Data justice asks: who controls health data, 
 who benefits from it, and who is harmed?
 
