@@ -8,7 +8,7 @@
 ## Purpose
 
 This repository is a living research space exploring the ethical 
-dimensions of artificial intelligence in healthcare — with a 
+dimensions of artificial intelligence in healthcare with a 
 particular focus on how AI systems affect marginalized, 
 underserved, and historically excluded communities.
 
@@ -22,9 +22,9 @@ This space documents, critiques, and builds alternatives.
 
 ## Core Research Questions
 
-1. How does algorithmic bias enter clinical AI systems — and at 
+1. How does algorithmic bias enter clinical AI systems and at 
    what stages?
-2. Whose health data is collected, whose is missing — and what 
+2. Whose health data is collected, whose is missing and what 
    does that absence produce?
 3. How do social determinants of health get erased or distorted 
    when translated into variables?
